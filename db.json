@@ -1,0 +1,197 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users(displayName,userPrincipalName,jobTitle,onPremisesSamAccountName)",
+    "value": [
+        {
+            "displayName": "MOD Administrator",
+            "userPrincipalName": "admin@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Patti Fernandez",
+            "userPrincipalName": "PattiF@M365x684551.OnMicrosoft.com",
+            "jobTitle": "President",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Alex Wilber",
+            "userPrincipalName": "AlexW@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Marketing Assistant",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Debra Berger",
+            "userPrincipalName": "DebraB@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Administrative Assistant",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Johanna Lorenz",
+            "userPrincipalName": "JohannaL@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Senior Engineer",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Allan Deyoung",
+            "userPrincipalName": "AllanD@M365x684551.OnMicrosoft.com",
+            "jobTitle": "IT Admin",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Pradeep Gupta",
+            "userPrincipalName": "PradeepG@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Accountant",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Joni Sherman",
+            "userPrincipalName": "JoniS@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Paralegal",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Christie Cline",
+            "userPrincipalName": "ChristieC@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Buyer",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Nestor Wilke",
+            "userPrincipalName": "NestorW@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Director",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Megan Bowen",
+            "userPrincipalName": "MeganB@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Marketing Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Isaiah Langer",
+            "userPrincipalName": "IsaiahL@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Sales Rep",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Adele Vance",
+            "userPrincipalName": "AdeleV@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Retail Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Irvin Sayers",
+            "userPrincipalName": "IrvinS@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Project Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Lee Gu",
+            "userPrincipalName": "LeeG@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Director",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Cameron White",
+            "userPrincipalName": "CameronW@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Salesperson",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Delia Dennis",
+            "userPrincipalName": "DeliaD@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Engineer",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Gerhart Moller",
+            "userPrincipalName": "GerhartM@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Raul Razo",
+            "userPrincipalName": "RaulR@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Engineer",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Bianca Pisani",
+            "userPrincipalName": "BiancaP@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Salesperson",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Grady Archie",
+            "userPrincipalName": "GradyA@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Designer",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Lidia Holloway",
+            "userPrincipalName": "LidiaH@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Product Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Lynne Robbins",
+            "userPrincipalName": "LynneR@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Planner",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Diego Siciliani",
+            "userPrincipalName": "DiegoS@M365x684551.OnMicrosoft.com",
+            "jobTitle": "HR Manager",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Miriam Graham",
+            "userPrincipalName": "MiriamG@M365x684551.OnMicrosoft.com",
+            "jobTitle": "Director",
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Brian Johnson (TAILSPIN)",
+            "userPrincipalName": "BrianJ@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Adams",
+            "userPrincipalName": "Adams@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Baker",
+            "userPrincipalName": "Baker@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Crystal",
+            "userPrincipalName": "Crystal@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Hood",
+            "userPrincipalName": "Hood@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Rainier",
+            "userPrincipalName": "Rainier@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        },
+        {
+            "displayName": "Conf Room Stevens",
+            "userPrincipalName": "Stevens@M365x684551.onmicrosoft.com",
+            "jobTitle": null,
+            "onPremisesSamAccountName": null
+        }
+    ]
+}

@@ -63,5 +63,25 @@
     "TaxTypeId": "",
     "AccountLineTypeId": "Frieght"
   }],
-  "MatterNumber": null
+  "MatterNumber": null,
+  "Notes":[
+  { 
+    User:"Allan Deyoung", 
+    TimeStamp: "2020/11/01 09:00", 
+    Email: "AllanD@M365x684551.OnMicrosoft.com",
+    Note:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget eros felis. Praesent accumsan massa eu odio viverra, sed lobortis ligula viverra."
+  },
+  { 
+    User:"Megan Bowen", 
+    TimeStamp: "2020/10/30 15:39", 
+    Email:"MeganB@M365x684551.OnMicrosoft.com",
+    Note:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget eros felis. Praesent accumsan massa eu odio viverra, sed lobortis ligula viverra."
+  },
+  { 
+    User:"Nestor Wilke", 
+    TimeStamp: "2020/10/20 14:00", 
+    Email:"NestorW@M365x684551.OnMicrosoft.com",
+    Note:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget eros felis. Praesent accumsan massa eu odio viverra, sed lobortis ligula viverra."
+  },
+],
 }
